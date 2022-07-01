@@ -509,3 +509,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# DB files
+*.lck
